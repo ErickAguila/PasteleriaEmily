@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+footer{
+    width: 100%;
+    background: #392e2c;
+    height: 83px;
+}
+footer .container{
+    max-width: 1220px;
+    margin: 0 auto;
+    position: relative;
+}
+.ancho-footer{
+    width: 80%;
+    height: 83px;
+    margin: auto;
+}
+.ancho-footer h4{
+    width: 70%;
+    height: 83px;
+    float: left;
+    text-align: left;
+    padding-top: 35px;
+    box-sizing: border-box;
+    color: #fff;
+}

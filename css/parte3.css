@@ -1,0 +1,7 @@
+.parte3 .container img{
+    background-position: center;
+    background-attachment: contain;
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+}

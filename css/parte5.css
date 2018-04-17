@@ -1,0 +1,73 @@
+.parte5{
+	padding-top: 60px;
+	padding-bottom: 10px;
+    background-image: url(http://www.pastelerialacolonia.cl/NUEVA/wp-content/uploads/2014/11/home_bakery_promotions_bg.jpg);
+    background-repeat: repeat;
+    background-position: center;
+    position: relative;
+    height: 660px;
+}
+.parte5 .container{
+	max-width: 1220px;
+	margin: 0 auto;
+	position: relative;
+}
+.parte5-titulo{
+	width: 98%;
+	float: left;
+	margin: 0 1% 40px;
+}
+.parte5-titulo .cuadro{
+	text-align: center;
+	zoom:1;
+}
+.parte5-titulo .cuadro h2{
+	font-size: 60px;
+	line-height: 60px;
+	font-weight: 300;
+	letter-spacing: 0px;
+	font-family: "Averia Serif Libre", Arial, Tahoma, sans-serif;
+	color: #372921;
+	margin-bottom: 15px;
+}
+.parte5-izquierda{
+	width: 31.333%;
+	float:left;
+	margin: 0 1% 40px;
+}
+.parte5-izquierda h3{
+	font-size: 36px;
+    line-height: 38px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    font-family: "Averia Serif Libre", Arial, Tahoma, sans-serif;
+    color: #372921;
+    margin-bottom: 15px;
+}
+.parte5-izquierda h3 .big{
+	font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+    letter-spacing: 0px;
+}
+p{
+	margin: 0 0 15px;
+}
+.parte5-derecha{
+	width: 64.666%;
+	line-height: 0;
+	float: left;
+	margin: 0 1% 40px;
+}
+.parte5-derecha .cuadro{
+	border-color: #f8f8f8;
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+}
+.parte5-derecha .cuadro img{
+	max-width: 100%;
+	height: auto;
+	position: relative;
+	top: 0;
+}
